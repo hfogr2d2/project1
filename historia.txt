@@ -3,3 +3,6 @@ Esta es la historia de Hector Orozco
 Hector Orozco tiene 54 años y nació en Colombia
 
 Hoy hablaremos de su historia.
+
+Se graduo como Full stack software developer en Holberton School
+el día 26 de marzo de 2021.
